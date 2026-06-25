@@ -1,4 +1,4 @@
-\# Summary Table for Quick Reference
+# Summary Table for Quick Reference
 
 
 
